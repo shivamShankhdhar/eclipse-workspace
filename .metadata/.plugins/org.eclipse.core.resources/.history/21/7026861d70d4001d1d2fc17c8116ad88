@@ -1,0 +1,10 @@
+package assignment_4_java;
+
+public class parameterized_constructor {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package assignment_4_java_new;
+
+public class vehicle_management_system {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
