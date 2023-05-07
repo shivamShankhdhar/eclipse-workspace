@@ -7,5 +7,6 @@ public class xyzProject extends Project{
 	  }
 	  void displayProjectDetails() {
 		  System.out.println(name + " "+ cost);
-	  }
+		  }
+	  
 }

@@ -1,5 +1,8 @@
 package date11april;
 
-public class Project {
-
+public abstract class Project {
+ String name;
+ int cost;
+ abstract void addProjectDetails();
+ abstract void displayProjectDetails();
 }
